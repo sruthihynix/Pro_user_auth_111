@@ -1,0 +1,8 @@
+<!--    <button><a href="{% url 'logout' %}">Logout</a></button>-->
+
+<!--                <p>Already have an account? <a href="{% url 'login-page' %}">Login</a></p>-->
+<p>Dont have an account? <a href="{% url 'register-page' %}">Register</a></p>
+
+
+https://www.youtube.com/watch?v=yqWaa5yegmI
+https://www.youtube.com/watch?v=yqWaa5yegmI&t=1644s
